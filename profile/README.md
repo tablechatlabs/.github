@@ -1,5 +1,5 @@
 
-Easy to SQL, Intelligent to SQL! &nbsp; Join us:&nbsp;[<img valign="center" src="https://user-images.githubusercontent.com/4312068/282979400-f29cb9f4-9779-41e0-b082-100edfe1e891.png">](https://twitter.com/cn_beyondwu)[Twitter@cn_beyondwu](https://twitter.com/cn_beyondwu)  &nbsp;[<img valign="center" src="https://user-images.githubusercontent.com/4312068/282980154-376152a4-3c2b-4304-b3e2-c529d69239df.png">](https://discord.gg/fB6RG45a)[Discord@tablechat](https://discord.gg/fB6RG45a) 
+Easy to SQL, Intelligent to SQL! &nbsp; Join us:&nbsp;<img src="https://user-images.githubusercontent.com/4312068/282979400-f29cb9f4-9779-41e0-b082-100edfe1e891.png">[Twitter@cn_beyondwu](https://twitter.com/cn_beyondwu)  &nbsp;<img width="20px" height="20px" src="https://user-images.githubusercontent.com/4312068/282980154-376152a4-3c2b-4304-b3e2-c529d69239df.png">[Discord@tablechat](https://discord.gg/fB6RG45a) 
 <br>
 
 # Welcome to TableChat
