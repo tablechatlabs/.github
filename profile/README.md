@@ -1,11 +1,13 @@
 
-Easy to SQL, Intelligent to SQL! &nbsp; Join us:&nbsp;<img src="https://user-images.githubusercontent.com/4312068/282979400-f29cb9f4-9779-41e0-b082-100edfe1e891.png">[Twitter@cn_beyondwu](https://twitter.com/cn_beyondwu)  &nbsp;<img width="20px" height="20px" src="https://user-images.githubusercontent.com/4312068/282980154-376152a4-3c2b-4304-b3e2-c529d69239df.png">[Discord@tablechat](https://discord.gg/fB6RG45a) 
+Easy to SQL, Intelligent to SQL! &nbsp; 
+
+Join us:&nbsp;<img src="https://user-images.githubusercontent.com/4312068/282979400-f29cb9f4-9779-41e0-b082-100edfe1e891.png">&nbsp;[Twitter@cn_beyondwu](https://twitter.com/cn_beyondwu)  &nbsp;<img src="https://user-images.githubusercontent.com/4312068/283023545-113ecfec-4c65-4c32-9a07-e816cf062207.png">&nbsp;[Discord@tablechat](https://discord.gg/fB6RG45a) 
 <br>
 
 # Welcome to TableChat
 **TableChat** is a SQL tool powered by generated  AI designed to assist SQL development. It leverages the capabilities of AI  LLM (Large Language Models) to implement the database operations people need, ensure compatibility with different databases,  use text to generate SQL, optimize read and write operations, and provide excellent data visualizations and insights.
 
-**Exactly Generated SQL statement  with AI**<br>
+### Exactly Generated SQL statement  with AI
 TableChat  allows developers to generate SQL queries exactly according to their table structures and multi-table relationships. It makes AI work with their real data and generate production-ready database operation statements. By utilizing the capabilities of LLM models with interactive dialogue,  complex database operations, cross-database language conversions (e.g., from MySQL to Oracle), and database statement optimization can be easily realized.
 
 **Powerful Data Visualizations and Insights**
