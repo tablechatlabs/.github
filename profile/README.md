@@ -12,6 +12,7 @@ As our software is still buiding, you can **try free** by contact us:&nbsp;<img 
 ### Exactly Generated SQL/BigData statement  with AI
 TableChat  allows developers to generate SQL/BigData queries exactly according to their table structures or data schema. It makes AI work with their real data and generate production-ready database/data warehouse operation statements. By utilizing the capabilities of LLMs with interactive dialogue,  complex database operations, cross-database language conversions, and database statement optimization can be easily realized.
 <img src="https://user-images.githubusercontent.com/4312068/283025844-cc8e752c-ce31-4f3b-96ef-5760e1fa574d.png">
+<img src="https://user-images.githubusercontent.com/4312068/283469710-d6ee0f7d-7c8d-455e-a244-5dee693b68a8.png">
 
 ### Powerful Data Visualizations and Insights
 TableChat offers built-in data visualization capabilities that allow developers, DBAs, and data analysts to explore and analyze data more effectively. It  can generate visual representations of complex data sets,  providing exciting table display, statistics, and filtering capabilities. This enables informed decision-making based on data insights. Developers can also clearly show the results to colleagues. 
