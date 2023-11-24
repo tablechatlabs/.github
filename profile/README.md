@@ -2,7 +2,7 @@
 Easy to Data, Intelligent to Data! &nbsp; 
 
 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **Caution!** <br>
-As our software is still buiding, you can **try free** by contact us:&nbsp;<img src="https://user-images.githubusercontent.com/4312068/282979400-f29cb9f4-9779-41e0-b082-100edfe1e891.png">&nbsp;[Twitter@cn_beyondwu](https://twitter.com/cn_beyondwu)  &nbsp;<img src="https://user-images.githubusercontent.com/4312068/283023545-113ecfec-4c65-4c32-9a07-e816cf062207.png">&nbsp;[Discord@tablechat](https://discord.gg/fB6RG45a) 
+As our software is still buiding, you can **try free** by contact us:&nbsp;<img src="https://user-images.githubusercontent.com/4312068/282979400-f29cb9f4-9779-41e0-b082-100edfe1e891.png">&nbsp;[Twitter@RogerWoods](https://twitter.com/roger_woods_go)  &nbsp;<img src="https://user-images.githubusercontent.com/4312068/283023545-113ecfec-4c65-4c32-9a07-e816cf062207.png">&nbsp;[Discord@tablechat](https://discord.gg/fB6RG45a) 
 <br>
 
 # Welcome to TableChat
