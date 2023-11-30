@@ -9,7 +9,7 @@ As our software is still buiding, you can **try free** by contact us:&nbsp;<img 
 **TableChat** is a SQL/BigData tool powered by generated  AI and designed to assist SQL/BigData development. It leverages the capabilities of AI  LLMs (Large Language Models) to implement the database operations people need. It has features more than ensuring compatibility with different databases,  using text to generate SQL, optimizing operations, and providing excellent data visualizations and insights.
 
 ## Key Features
-### Production-Ready Generated SQL/BigData statement  with AI
+### Production-Ready Text to SQL/BigData statement with AI
 TableChat  allows developers to generate SQL/BigData queries exactly according to their table structures or data schema. It makes AI work with their real data and generate production-ready database/data warehouse operation statements. 
 <img src="https://user-images.githubusercontent.com/4312068/283025844-cc8e752c-ce31-4f3b-96ef-5760e1fa574d.png">
 
@@ -26,3 +26,6 @@ Based on existing table structures, developers can rapidly get customized object
 
 ### Intelligent Code Suggestions
 Our SQL/BigData IDE is equipped with intelligent code completion features that significantly speed up the development process. This tool analyzes the code you are writing and suggests completions for code snippets, SQL/BigData commands, and table column names, based on the context and your past coding patterns. This feature eliminates the need for manual typing, reduces errors, and enhances code accuracy.
+
+### Elegant, Clean and Safety 
+TableChat provides users the most needed product capabilities in database operation without complex features,  allowing users to query and edit data gracefully and smoothly. The product is a cross-platform client. Data is completely controlled by the user, so there is no need to worry about your data privacy.
