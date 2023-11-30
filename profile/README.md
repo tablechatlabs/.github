@@ -27,5 +27,5 @@ Based on existing table structures, developers can rapidly get customized object
 ### Intelligent Code Suggestions
 Our SQL/BigData IDE is equipped with intelligent code completion features that significantly speed up the development process. This tool analyzes the code you are writing and suggests completions for code snippets, SQL/BigData commands, and table column names, based on the context and your past coding patterns. This feature eliminates the need for manual typing, reduces errors, and enhances code accuracy.
 
-### Elegant, Clean and Safety 
+### Elegant, Clean and Secure 
 TableChat provides users the most needed product capabilities in database operation without complex features,  allowing users to query and edit data gracefully and smoothly. The product is a cross-platform client. Data is completely controlled by the user, so there is no need to worry about your data privacy.
